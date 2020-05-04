@@ -10,7 +10,7 @@ def jalan(s):
       sys.stdout.flush()
       time.sleep(1./12)
 jalan("\x1b[1;92mSelamat Datang Om")
-jalan("\x1b[1;93mIni adalah script Kumpualan DarkFB")
+jalan("\x1b[1;93mIni adalah script Kumpulan DarkFB")
 
 #main
 sub = str(input("\033[1;93mapa anda sudah follow facebook admin? y/t:"))
