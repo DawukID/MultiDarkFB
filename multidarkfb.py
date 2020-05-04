@@ -9,17 +9,17 @@ def jalan(s):
       sys.stdout.write(c)
       sys.stdout.flush()
       time.sleep(1./12)
-jalan("\x1b[1;92mHallo selamat datang")
+jalan("\x1b[1;92mWelcome TOD")
 jalan("\x1b[1;93mIni adalah script Kumpulan Darkfb")
 
 #main
-sub = str(input("\033[1;93mapa anda sudah subrek channel admin? y/t:"))
+sub = str(input("\033[1;93mapa anda sudah follow facebook admin? y/t:"))
 if sub == "y":
-   print("\033[1;92mTerimakasih Gan")
+   print("\033[1;92mTerimakasih Om")
    os.system("clear")
 elif sub == "t":
-     print ("\033[1;92mSilahkan Subrek dulu")
-     os.system("xdg-open https://youtu.be/JRtKt30Nex8")
+     print ("\033[1;92mSilahkan Follow dulu")
+     os.system("xdg-open https://www.facebook.com/satria.id.7739")
 else:
   print("\033[1;97mInput tidak ada\033[1;91m!!!")
   os.system("python multidarkfb.py")
@@ -33,8 +33,8 @@ print (" ╰┳╯         \033[1;91m   ◢▉◣      \033[1;94m    F B\033[1;9
 print ("\033[1;93m  ┃     \033[1;91m        ▉▉▉")
 print ("\033[1;93m  ┃           \033[1;91m  ◥▉◤")
 print ("\033[1;93m  ┃      ╭━┳━━━━╯")
-print ("  ┣━━━━━━┫        \033[1;91mAuthor\033[1;97m:\033[1;92mTheXmanz\033[1;93m")
-print (" ╭╯　　　╰╮       \033[1;91mYotube\033[1;97m:\033[1;92mApmz Channel")
+print ("  ┣━━━━━━┫        \033[1;91mAuthor\033[1;97m:\033[1;92mDawukID\033[1;93m")
+print (" ╭╯　　　╰╮       \033[1;91mFacebook\033[1;97m:\033[1;92mSatria AN")
 print ("\033[1;91m[\033[1;96m=========================================\033[1;91m]")
 print ("\033[1;92m[\033[1;97m1\033[1;92m]\033[1;97m.\033[1;92mDarkXploit")
 print ("\033[1;92m[\033[1;97m2\033[1;92m]\033[1;97m.\033[1;92mDarkfbvip")
@@ -101,7 +101,7 @@ elif pil == "10":
      time.sleep(2.3)
      os.system("clear")
      sleep(2)
-     print ("CARA SUAPA AKUN TIDAK KENA CP")
+     print ("CARA SUPAYA AKUN TIDAK KENA CP")
      sleep(2)
      print ("1.Lu harus buat akun fb baru")
      sleep(2) 
