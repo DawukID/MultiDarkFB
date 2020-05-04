@@ -9,8 +9,8 @@ def jalan(s):
       sys.stdout.write(c)
       sys.stdout.flush()
       time.sleep(1./12)
-jalan("\x1b[1;92mWelcome TOD")
-jalan("\x1b[1;93mIni adalah script Kumpulan Darkfb")
+jalan("\x1b[1;92mSelamat Datang Om")
+jalan("\x1b[1;93mIni adalah script Kumpualan DarkFB")
 
 #main
 sub = str(input("\033[1;93mapa anda sudah follow facebook admin? y/t:"))
@@ -45,7 +45,7 @@ print ("\033[1;92m[\033[1;97m6\033[1;92m]\033[1;97m.\033[1;92mDarkFbv.9")
 print ("\033[1;92m[\033[1;97m7\033[1;92m]\033[1;97m.\033[1;92mDarkFbStoriku")
 print ("\033[1;92m[\033[1;97m8\033[1;92m]\033[1;97m.\033[1;92mDarkFbRusmana")
 print ("\033[1;92m[\033[1;97m9\033[1;92m]\033[1;97m.\033[1;92mDarkAutoMbf")
-print ("\033[1;92m[\033[1;97m10\033[1;92m]\033[1;97m.\033[1;92m Tutorial No Cp")
+print ("\033[1;92m[\033[1;97m10\033[1;92m]\033[1;97m.\033[1;92mTutorial No Cp")
 print ("\033[1;92m[\033[1;97m00\033[1;92m]\033[1;97m.\033[1;92mExit")
 pil = str(input("\033[1;96m[Pilih Nomor\033[1;97m:\033[1;92m$"))
 if pil == "1":
