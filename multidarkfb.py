@@ -53,7 +53,7 @@ if pil == "1":
    sleep(2)
    os.system("git clone https://github.com/DawukID/DarkFB")
    os.system("cd DarkFB")
-   os.system("python2 euy.py")
+   os.system("python2 Darkfb.py")
 elif pil == "2":
      print ("\033[1;92mInstalling....")
      os.system("git clone https://github.com/TheMagizz/DarkVip")
