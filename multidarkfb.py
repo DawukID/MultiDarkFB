@@ -52,8 +52,8 @@ if pil == "1":
    print ("\033[1;92mInstalling...")
    sleep(2)
    os.system("git clone https://github.com/DawukID/DarkFB")
-   os.system("cd darkxploit")
-   os.system("python2 darkfb.py")
+   os.system("cd DarkFB")
+   os.system("python2 euy.py")
 elif pil == "2":
      print ("\033[1;92mInstalling....")
      os.system("git clone https://github.com/TheMagizz/DarkVip")
@@ -121,4 +121,4 @@ elif pil == "00":
 else:
   print ("\033[1;92mInput tidak ada")
   sleep(2)
-  os.system("python2 multidarkfb.py")
+  os.system("python multidarkfb.py")
